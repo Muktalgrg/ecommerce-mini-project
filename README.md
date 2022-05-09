@@ -1,1 +1,3 @@
-This project is developed using angular on the front end and spring boot, mysql on the backend.
+Technologies used:
+Front end: bootstrap 4, angular framework (12)
+Back end: spring boot framework, Mysql, Hibernate
